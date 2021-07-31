@@ -1,11 +1,3 @@
-### Hi there 👋 teste
-
-
-
-
-
-
-
  ## Oiii! Eu sou o Gabriel Carneiro ✌
  <div>
   <a href="https://github.com/gcbcarneiro">
