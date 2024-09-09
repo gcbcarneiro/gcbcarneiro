@@ -1,4 +1,4 @@
- ## Oiii! Eu sou o Gabriel Carneiro ✌
+ ##Gabriel Carneiro ✌
  <div>
   <a href="https://github.com/gcbcarneiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcbcarneiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
