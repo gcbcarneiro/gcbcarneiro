@@ -1,4 +1,4 @@
-<p><strong><span style="text-decoration: underline;">Gabriel Carneiro Batista - Analista Suporte e Desenvolvedor</span></strong></p>
+<p><strong><span style="text-decoration: underline;">Gabriel Carneiro Batista - Analista  e Desenvolvedor</span></strong></p>
 
 &nbsp;
 
