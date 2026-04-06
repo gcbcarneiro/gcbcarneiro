@@ -1,4 +1,4 @@
-<p><strong><span style="text-decoration: underline;">Gabriel Carneiro Batista</span></strong></p>
+<p><strong><span style="text-decoration: underline;">Gabriel Carneiro Batista / Analista & Desenvolvedor</span></strong></p>
 
 &nbsp;
 
