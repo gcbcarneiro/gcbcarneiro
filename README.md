@@ -1,4 +1,4 @@
-<p><strong><span style="text-decoration: underline;">Gabriel Carneiro Batista - Analista  e Desenvolvedor</span></strong></p>
+<p><strong><span style="text-decoration: underline;">Gabriel Carneiro Batista</span></strong></p>
 
 &nbsp;
 
@@ -22,6 +22,9 @@
 ### 📬 Contato
 
 <div>
+  <a href="https://wa.me/5521979863383" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
   <a href="https://instagram.com/gcbcarneiro" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
