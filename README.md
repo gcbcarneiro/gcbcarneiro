@@ -1,4 +1,4 @@
-<p><strong><span style="text-decoration: underline;">Gabriel Carneiro Batista</span></strong></p>
+<p><strong><span style="text-decoration: underline;">Gabriel Carneiro Batista - Analista Suporte e Desenvolvedor</span></strong></p>
 
 &nbsp;
 
@@ -12,6 +12,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" align="center" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" align="center" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" align="center" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" align="center" />
 </div>
 
 &nbsp;
